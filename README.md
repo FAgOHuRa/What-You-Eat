@@ -14,33 +14,40 @@ Uma explicação do conteúdo em fastfood.csv.
 
 Nome da coluna | Significado | Possíveis valores |
 --- | --- | --- |
-restaurant | --- | object |
-item | --- | object |
-calories | --- | int64 |
-cal_fat | --- | int64 |
-total_fat | --- | int64 |
-sat_fat | --- | float64 |
-trans_fat | --- | float64 |
-cholesterol | --- | int64 |
-sodium | --- | int64 |
-total_carb | --- | int64 |
-fiber | --- | float64 |
-sugar | --- | int64 |
-protein | --- | float64 |
-vit_a | --- | float64 |
-vit_c | --- | float64 |
-calcium | --- | float64 |
+restaurant | Restaurantes existentes no dataset | object |
+item | Itens existentes no dataset correspondentes a cada restaurante | object |
+calories | Gramas de calorias por item | int64 |
+cal_fat | Gramas de caloria na gordura por item | int64 |
+total_fat | Gramas de gordura total por item | int64 |
+sat_fat | Gramas de gordura saturada por item | float64 |
+trans_fat | Gramas de gordura transformada por item | float64 |
+cholesterol | Gramas de colesterol por item | int64 |
+sodium | Gramas de sódio por item | int64 |
+total_carb | Gramas de hidratos de carbono por item | int64 |
+fiber | Gramas de fibra por item | float64 |
+sugar | Gramas de açúcar por item | int64 |
+protein | Gramas de proteína por item | float64 |
+vit_a | Gramas de vitamina A por item | float64 |
+vit_c | Gramas de vitramina C por item | float64 |
+calcium | Gramas de cálcio por item | float64 |
 
-## Aplicações deste repositório
+## Aplicações deste repositório 💻
 
--Projeto/
-escolha 
+Sendo que este projeto não tem qualquer colaborações ou exposições externas, a análise do dataset apenas tem aplicação no projeto em si
 
-## ESTRUTURA
+## Estrutura 🧱	
 
-	fastfood.csv: Base de dados extraída.	
+	fastfood.csv: Base de dados extraída.
+	
+## API 📡
 
-## BIBLIOGRAFIA
-[Website 1](https://www.openintro.org/data/index.php?data=fastfood)
+Não houve recurso a API's, uma vez que não houve necessidade ou possibilidade para uso/criação de uma
+
+## Bibliografia 📜
+Website de recolha do [dataset](https://www.openintro.org/data/index.php?data=fastfood) (1)
 [^1]:
-[Website 2](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+Website de recolha do [dataset](https://vincentarelbundock.github.io/Rdatasets/datasets.html) (2)
+[^1]:
+Website do [Pandas](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+[^1]:
+Website do [StackOverflow](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
