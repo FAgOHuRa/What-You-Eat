@@ -31,21 +31,24 @@ calcium | Gramas de cálcio por item | float64 |
 
 ## Aplicações deste repositório 💻
 
-Sendo que este projeto não tem qualquer colaborações ou exposições externas, a análise do dataset apenas tem aplicação no projeto em si
+Sendo que este projeto não tem qualquer colaborações ou exposições externas, a análise do dataset apenas tem aplicação no projeto em si.
 
 ## Estrutura 🧱	
-
-	fastfood.csv: Base de dados extraída.
+O repositório está organizado da seguinte forma:
+- Data/fastfood.csv: Dataset extraído;
+- Poster: Capa criada para o projeto;
+- Relatorio: Resumo breve com mais informações sobre este projeto;
+- WhatYouEat: Análise do dataset;
 	
 ## API 📡
 
-Não houve recurso a API's, uma vez que não houve necessidade ou possibilidade para uso/criação de uma
+Não houve recurso a API's, uma vez que não houve necessidade ou possibilidade para uso/criação de uma.
 
 ## Bibliografia 📜
-Website de recolha do [dataset](https://www.openintro.org/data/index.php?data=fastfood) (1)
+Website de recolha do [dataset](https://www.openintro.org/data/index.php?data=fastfood) (1);
 [^1]:
-Website de recolha do [dataset](https://vincentarelbundock.github.io/Rdatasets/datasets.html) (2)
+Website de recolha do [dataset](https://vincentarelbundock.github.io/Rdatasets/datasets.html) (2);
 [^1]:
-Website do [Pandas](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+Website do [Pandas](https://vincentarelbundock.github.io/Rdatasets/datasets.html);
 [^1]:
-Website do [StackOverflow](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+Website do [StackOverflow](https://vincentarelbundock.github.io/Rdatasets/datasets.html);
