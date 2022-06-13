@@ -1,7 +1,5 @@
 # What You Eat 🍔
 
-📅 Ultima atualização
-
 ## Contexto 🍟
 
 No ambito da disciplina de Programação e Algoritmos II, foi nos proposta uma análise de uma 
